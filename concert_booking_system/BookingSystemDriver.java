@@ -1,4 +1,5 @@
-import concert_booking_system.BookingSystem;
+package concert_booking_system;
+
 import concert_booking_system.entity.*;
 import concert_booking_system.enums.SeatStatus;
 import concert_booking_system.enums.SeatType;
